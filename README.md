@@ -12,6 +12,7 @@
   <img style="height:30px" src="https://img.shields.io/badge/CSS3-Front-1572B6?style=plastic&logo=css3&logoColor=1572B6"/>
   <img style="height:30px" src="https://img.shields.io/badge/JavaScript-Front-F7DF1E?style=plastic&logo=javascript&logoColor=F7DF1E"/>
   <img style="height:30px" src="https://img.shields.io/badge/React-Front-61DAFB?style=plastic&logo=react&logoColor=61DAFB"/>
+  <img style="height:30px" src="https://img.shields.io/badge/Next.js-Front-000000?style=plastic&logo=nextdotjs&logoColor=000000"/>
   <img style="height:30px" src="https://img.shields.io/badge/Tailwind%20CSS-Front-06B6D4?style=plastic&logo=tailwindcss&logoColor=06B6D4"/>
 </div>
 <div>
